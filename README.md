@@ -1,1 +1,1 @@
-# Breast-Cancer-Predict-Analysis
+# Breast-Cancer-Prediction-Analysis
